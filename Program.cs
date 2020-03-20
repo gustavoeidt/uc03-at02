@@ -1,5 +1,5 @@
 ﻿using System;
-using System.Globalization;
+using System.Globalization; // <- Para utilizar o objeto CultureInfo
 
 namespace at02
 {
