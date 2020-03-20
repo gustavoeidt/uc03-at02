@@ -1,0 +1,11 @@
+C:\xampp\htdocs\UC-2\at02\bin\Debug\netcoreapp3.1\at02.exe
+C:\xampp\htdocs\UC-2\at02\bin\Debug\netcoreapp3.1\at02.deps.json
+C:\xampp\htdocs\UC-2\at02\bin\Debug\netcoreapp3.1\at02.runtimeconfig.json
+C:\xampp\htdocs\UC-2\at02\bin\Debug\netcoreapp3.1\at02.runtimeconfig.dev.json
+C:\xampp\htdocs\UC-2\at02\bin\Debug\netcoreapp3.1\at02.dll
+C:\xampp\htdocs\UC-2\at02\bin\Debug\netcoreapp3.1\at02.pdb
+C:\xampp\htdocs\UC-2\at02\obj\Debug\netcoreapp3.1\at02.csprojAssemblyReference.cache
+C:\xampp\htdocs\UC-2\at02\obj\Debug\netcoreapp3.1\at02.AssemblyInfoInputs.cache
+C:\xampp\htdocs\UC-2\at02\obj\Debug\netcoreapp3.1\at02.AssemblyInfo.cs
+C:\xampp\htdocs\UC-2\at02\obj\Debug\netcoreapp3.1\at02.dll
+C:\xampp\htdocs\UC-2\at02\obj\Debug\netcoreapp3.1\at02.pdb
